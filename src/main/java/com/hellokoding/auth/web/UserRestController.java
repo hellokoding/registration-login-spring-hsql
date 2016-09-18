@@ -53,7 +53,7 @@ public class UserRestController {
         if (logout != null)
             model.addAttribute("message", "You have been logged out successfully.");
 
-        return "login";
+        return "registration";
     }
 
 //    @RequestMapping(value = {"/", "/welcome"}, method = RequestMethod.GET)
