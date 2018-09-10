@@ -17,5 +17,9 @@ https://hellokoding.com/registration-and-login-example-with-spring-security-spri
 
 ## Run
 ```mvn clean spring-boot:run```
+
 To run the standalone thin jar:
-```mvn clean package && java -jar target/auth-2.0.4.RELEASE.jar```
+```
+mvn clean package 
+java -jar target/auth-2.0.4.RELEASE.jar
+```
