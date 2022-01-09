@@ -21,5 +21,5 @@ https://hellokoding.com/registration-and-login-example-with-spring-security-spri
 To run the standalone thin jar:
 ```
 mvn clean package 
-java -jar target/auth-2.0.4.RELEASE.jar
+java -jar target/auth-2.6.2.jar
 ```
